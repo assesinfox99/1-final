@@ -1,2 +1,3 @@
 # 1-final
-hice tal cosa
+falta:
+revisar el sistema de niveles echos, esta para el enemigo y el jugador bien planteado pero no esta implementado en los objetos, hacer el sistema de armas, el mein esta "creado para un sistema de pruebas"(permite peliar y cuararce ademas de que aumentan las estadisticas conforme subes de nivel), crear diferentes enemigos que puedan ser aliatorios con enemigos especiales cada 10 pisos ( jefes ) lo mejkor seria hacer esto en un sisitema de archivos, mirar si queremos poner mas pociones, y crear el sistema de inventario
